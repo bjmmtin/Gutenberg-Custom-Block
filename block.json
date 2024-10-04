@@ -15,7 +15,7 @@
       },
       "ctadescription": {
         "type": "string",
-        "default": ""
+        "default": "Secure skilled legal representation for you and your family. Our dedicated attorneys work to resolve your claim efficiently, minimizing courtroom involvement. Contact us today to pursue the compensation you deserve."
       },
       "ctafullform": {
         "type": "boolean",

@@ -1,0 +1,18 @@
+/* Styling for the custom CTA block */
+.cta-title,
+.cta-description,
+.cta-fullform {
+    margin-bottom: 15px;
+}
+
+.cta-title input,
+.cta-description textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.cta-fullform input[type="checkbox"] {
+    margin-left: 5px;
+}
